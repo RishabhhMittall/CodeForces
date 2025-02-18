@@ -16,8 +16,9 @@ This repository contains my solutions for the **Codeforces TLE Eliminators Sheet
 ```sh
 git clone https://github.com/RishabhhMittall/CodeForces
 cd TLE-Eliminators-Sheet
+```
 
-3️⃣ Try solving problems before checking solutions! 🧠
+2️⃣ Try solving problems before checking solutions! 🧠
 
 🎯 Topics Covered
 ✅ Dynamic Programming (DP)
