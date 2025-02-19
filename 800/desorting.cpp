@@ -1,9 +1,5 @@
-#include <algorithm>
 #include <iostream>
-#include <queue>
-#include <stack>
-#include <string>
-#include <vector>
+#include <bits/stdc++.h>
 using namespace std;
 
 void solve(vector<int> &arr, int n) {
@@ -18,6 +14,7 @@ void solve(vector<int> &arr, int n) {
 
         int ops = diff/2 + 1;
         cout << ops << endl;
+        
     }
 }
 
