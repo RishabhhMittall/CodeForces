@@ -1,6 +1,6 @@
 "# CodeForces"
 
-# 🚀 Codeforces TLE Eliminators Sheet 🚀
+# 🚀 Codeforces TLE Eliminators Sheet & Contest 🚀
 
 ## 🌟 **About This Repository**
 
