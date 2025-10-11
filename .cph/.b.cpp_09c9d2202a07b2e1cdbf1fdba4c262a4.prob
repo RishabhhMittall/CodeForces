@@ -1,0 +1,1 @@
+{"name":"Local: b","url":"d:\\Vs code files\\Codes Cpp\\CodeForces\\b.cpp","tests":[{"id":1754838145224,"input":"2\n2\n3\n","output":"-1 2\n-1 3 -1\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Vs code files\\Codes Cpp\\CodeForces\\b.cpp","group":"local","local":true}
